@@ -1,0 +1,40 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon-minlaw.ico
+
+# Agency logo
+agency-logo: /images/mlaw-logo.png
+
+
+# Google analytics
+
+google-analytics: UA-10405444-16
+
+
+# Hero Banner
+hero-title: Licensing and Regulation of Insolvency Practitioners Division
+hero-subtitle:  XXX
+hero-banner: /images/Hero Banner_ROP.jpg
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /information-for-public/
+    
+key-highlights:
+  - title: Relevant Laws and Regulations
+    description: Be equipped with the knowledge of insolvency industry in Singapore
+    url: /information-for-insolvency-practitioners/relevant-laws-and-regulations/
+    external: true
+  - title: List of Licensed Insolvency Practitioners
+    description: Get the latest list of Licensed Insolvency Practitioners in Singapore
+    url: /information-for-public/list-of-licensed-insolvency-practitioners-in-singapore/
+    external: true
+  - title: Contact Us 
+    description: Find the answers to your questions
+    url: https://eservices.mlaw.gov.sg/enquiry/
