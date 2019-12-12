@@ -4,6 +4,22 @@
 #                                #
 ##################################
 
+- title: About Us
+  url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+  sub-links:
+  - title: Our Vision and Mission
+    url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+  - title: Our Management
+    url: https://www.mlaw.gov.sg/about-us/our-management/
+  - title: Organisation Structure
+    url: https://www.mlaw.gov.sg/about-us/organisation-structure/
+  - title: Our Legal System
+    url: https://www.mlaw.gov.sg/about-us/our-legal-system/
+  - title: What We Do
+    url: https://www.mlaw.gov.sg/about-us/what-we-do/
+  - title: Contact Us
+    url: https://www.mlaw.gov.sg/about-us/contact-us/
+
 logo: /images/mlaw-io-logo.png
 
 links:
