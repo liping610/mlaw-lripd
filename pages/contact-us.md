@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Ministry of Law
 locations:
-  - title: Main Office
+  - title: Minstry of Law Services Centre
     address:
         - 45 Maxwell Road
         - #07-11 The URA Centre (East Wing)
