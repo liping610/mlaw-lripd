@@ -20,14 +20,23 @@
   - title: Contact Us
     url: https://www.mlaw.gov.sg/about-us/contact-us/
 
-logo: /images/mlaw-io-logo.png
+- title: General Information
+  url: /general-information/
+  sub-links:
+  - title: Subpage A
+    url: /subpage-a/
+- title: Information For Insolvency Practitioners
+  url: /information-for-insolvency-practitioners/
+  sub-links:
+  - title: Sub Page B
+    url: /sub-page-b/
+- title: News
+  url: https://www.mlaw.gov.sg/news/
+  sub-links:
+  - title: All
+    url: /All/
+  - title: Category A
+    url: /category-a/ 
+  - title: Category B
+    url: /category-b/
 
-links:
-  - title: About Us
-    collection: about-us
-  - title: General Information
-    collection: general-information
-  - title: Information For Insolvency Practitioners
-    collection: information-for-insolvency-practitioners
-  - title: News
-    resource_room: true
