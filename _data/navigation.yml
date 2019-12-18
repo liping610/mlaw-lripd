@@ -30,8 +30,6 @@
   sub-links:
   - title: Sub Page B
     url: /sub-page-b/
-- title: e-Services
-  url: https://eservices.mlaw.gov.sg/io/
 - title: News
   url: https://www.mlaw.gov.sg/news/
   sub-links:
